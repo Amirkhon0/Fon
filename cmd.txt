@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole "Fon v2.py" 
